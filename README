@@ -1,11 +1,8 @@
-CS 352 Web Chat Server Assignment:
-
-In this assignment you will write a tiny chat/messaging server that works over the HTTP protocol in Java.
+Tiny chat/messaging server that works over the HTTP protocol in Java.
 
 The Chat Server Protocol
-You will build a basic chat server in Java that allows users to login with a username and password, and post messages to a chat log. 
-The server uses HTTP as the base protocol. Recall from the beginning of class that HTTP uses strings as the base data-type and 
-message have a structure with a header consisting of variable-value pairs, followed by a body with data. 
+Built a basic chat server in Java that allows users to login with a username and password, and post messages to a chat log. 
+The server uses HTTP as the base protocol. 
 
 
 See the help-clients.txt for how to run the clients and help-server.txt for how to run the server.
